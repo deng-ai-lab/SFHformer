@@ -1,6 +1,11 @@
 ## [SFHformer: When Fast Fourier Transform Meets Transformer for Image Restoration] (ECCV 2024)
  Official implementation.
  
+## Authors
+Xingyu Jiang, Xiuhui Zhang, Ning Gao, Yue Deng *
+
+School of Astronautics, Beihang University, Beijing, China
+ 
 #### News
 - **July 25, 2024:** Paper accepted at ECCV 2024.
 
@@ -10,64 +15,74 @@
 <hr />
 
 ## Introduction
-
-<img src = "https://i.imgur.com/ulLoEig.png"> 
+<p align='center'>
+<img src = "image/introduce.jpg"> 
 
 ## Network Architecture
-
-<img src = "https://i.imgur.com/ulLoEig.png"> 
+<p align='center'>
+<img src = "image/method.jpg"> 
 
 
 ## Results
-Experiments are performed for different image restoration tasks including, image dehazing, image deraining, image desnowing, image denoising, image super-resolution, single-image motion deblurring, defocus deblurring (on single image data), image raindrop removal, low-light image enhancement and underwater image enhancement. 
+Experiments are performed for different image restoration tasks including, image dehazing, image deraining, image desnowing, image denoising, image super-resolution, single-image motion deblurring, defocus deblurring, image raindrop removal, low-light image enhancement and underwater image enhancement. 
 
 <details>
 <summary><strong>Image Dehazing</strong> (click to expand) </summary>
-
-<img src = "https://i.imgur.com/mMoqYJi.png"> 
+<p align='center'>
+<img src = "image/haze_result.png"> 
 </details>
 
 <details>
 <summary><strong>Image Deraining</strong> (click to expand) </summary>
+<p align='center'>
+<img src = "image/rain_result.png"> 
+</details>
 
-<img src = "https://i.imgur.com/mMoqYJi.png"> 
+<details>
+<summary><strong>Image Desnowing</strong> (click to expand) </summary>
+<p align='center'>
+<img src = "image/snow.png"> 
+</details>
+
+<details>
+<summary><strong>Image Super-resolution</strong> (click to expand) </summary>
+<p align='center'>
+<img src = "image/supp_super.png"> 
+</details>
+
+<details>
+<summary><strong>Image Raindrop Removal</strong> (click to expand) </summary>
+<p align='center'>
+<img src = "image/raindrop.png"> 
 </details>
 
 <details>
 <summary><strong>Single-Image Motion Deblurring</strong> (click to expand) </summary>
-
-<p align="center"><img src = "https://i.imgur.com/htagDSl.png" width="400"></p></details>
+<p align="center">
+<img src = "image/motion_deblur.png" >
+</details>
 
 <details>
 <summary><strong>Defocus Deblurring</strong> (click to expand) </summary>
-
-S: single-image defocus deblurring.
-D: dual-pixel defocus deblurring.
-
-<img src = "https://i.imgur.com/sfKnLG2.png"> 
+<p align="center">
+<img src = "image/supp_defocus.png"> 
 </details>
 
 
 <details>
-<summary><strong>Gaussian Image Denoising</strong> (click to expand) </summary>
-
-Top super-row: learning a single model to handle various noise levels.
-Bottom super-row: training a separate model for each noise level.
-
-<table>
-  <tr>
-    <td> <img src = "https://i.imgur.com/4vzV8Qy.png" width="400"> </td>
-    <td> <img src = "https://i.imgur.com/Sx986Xs.png" width="500"> </td>
-  </tr>
-  <tr>
-    <td><p align="center"><b>Grayscale</b></p></td>
-    <td><p align="center"><b>Color</b></p></td>
-  </tr>
-</table>
+<summary><strong>Image Denoising</strong> (click to expand) </summary>
+<p align="center">
+<img src = "image/supp_noise.png"> 
 </details>
 
 <details>
-<summary><strong>Real Image Denoising</strong> (click to expand) </summary>
+<summary><strong>Underwater Image Enhancement</strong> (click to expand) </summary>
+<p align="center">
+<img src = "image/underwater_result.png"> 
+</details>
 
-<img src = "https://i.imgur.com/6v5PRxj.png">
+<details>
+<summary><strong>Low-light Image Enhancement</strong> (click to expand) </summary>
+<p align="center">
+<img src = "image/lowlight.png"> 
 </details>
