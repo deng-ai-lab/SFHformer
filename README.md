@@ -7,7 +7,8 @@ Xingyu Jiang, Xiuhui Zhang, Ning Gao, Yue Deng *
 School of Astronautics, Beihang University, Beijing, China
  
 #### News
-- **July 25, 2024:** Paper accepted at ECCV 2024.
+- **Oct 17, 2024:** The train code is now open and our paper is available [here](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06190.pdf)! 
+- **Jul 25, 2024:** Paper accepted at ECCV 2024.
 
 <hr />
 
