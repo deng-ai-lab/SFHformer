@@ -7,7 +7,9 @@ Xingyu Jiang, Xiuhui Zhang, Ning Gao, Yue Deng *
 School of Astronautics, Beihang University, Beijing, China
  
 #### News
-- **Mar 27, 2025:** We release the pre-training weights of ITS and OTS for dehazing with the test code in the dehazing folder.
+Thanks for your interest in our work, we will continue to optimize our code. If you have any other questions, please feel free to raise them in the issues, and I will try my best to address them!
+- **Apr 11, 2025:** We release some visualizations of the dataset in the Visual result section. 
+- **Mar 27, 2025:** We release the pre-training weights of ITS and OTS with the test code in the dehazing folder.
 - **Oct 17, 2024:** The train code is now open and our paper is available [here](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06190.pdf)! 
 - **Jul 25, 2024:** Paper accepted at ECCV 2024.
 
@@ -95,6 +97,29 @@ Experiments are performed for different image restoration tasks including, image
 <thead>
   <tr>
     <th>Dataset</th>
+    <th>SOTS-indoor</th>
+    <th>SOTS-outdoor</th>
+    <th>O-HAZE</th>
+    <th>NH-HAZE</th>
+    <th>DENSE-HAZE</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a href="https://pan.baidu.com/s/1w3GhWD5yAd8N_JsJoXBtXA?pwd=8sj6">Download (8sj6)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1A5B3hm39YrB51rvX3RWtVw?pwd=awnk">Download (awnk)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1OMJDVsJoh4zrlvDWlZ2FNA?pwd=pfem">Download (pfem)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1N75cBd3GIinW6NA_WxiRSg?pwd=e72s">Download (e72s)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1qG3IjMm-sOnPepmyZvEoQg?pwd=y8we">Download (y8we)</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
     <th>LOLv2-real</th>
     <th>LOLV2-syn</th>
   </tr>
@@ -119,6 +144,51 @@ Experiments are performed for different image restoration tasks including, image
   <tr>
     <td>Baidu NetDisk</td>
     <td> <a href="https://pan.baidu.com/s/1QKJk9BTxP0GI5yyferFG5w?pwd=z9uv">Download (z9uv)</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>SRRS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a href="https://pan.baidu.com/s/1MAAIIOjWW_5JhzqQfakR0A?pwd=5899">Download (5899)</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>RainDrop</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a href="https://pan.baidu.com/s/1jSGfmuNaPMXGweFEJO-D5g?pwd=4nay">Download (4nay)</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
+    <th>SPA-Data</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a href="https://pan.baidu.com/s/11BsZhTnOmJPpDlgzQuThJQ?pwd=k8s6">Download (k8s6)</a>  </td>
   </tr>
 </tbody>
 </table>
