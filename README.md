@@ -192,3 +192,29 @@ Experiments are performed for different image restoration tasks including, image
   </tr>
 </tbody>
 </table>
+
+## Supplementary Material
+
+For more details, see the supplementary material [here](https://static-content.springer.com/esm/chp%3A10.1007%2F978-3-031-72995-9_22/MediaObjects/635788_1_En_22_MOESM1_ESM.pdf)!
+
+## References
+
+Here is the BibTeX citation for the paper:
+
+      @inproceedings{jiang2024fast,
+        title={When Fast Fourier Transform Meets Transformer for Image Restoration},
+        author={Jiang, Xingyu and Zhang, Xiuhui and Gao, Ning and Deng, Yue},
+        booktitle={European Conference on Computer Vision},
+        pages={381--402},
+        year={2024},
+        organization={Springer}
+      }
+
+## Other Acknowledgment
+
+Part of our code is based on the [Dehazeformer](https://github.com/IDKiro/DehazeFormer) and [Restormer](https://github.com/swz30/Restormer).
+Thanks for their awesome work.
+
+## Contact
+
+If your submitted issue has not been noticed or there are further questions, please contact jxy33zrhd@buaa.edu.cn.
