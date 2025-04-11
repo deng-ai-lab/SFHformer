@@ -137,6 +137,23 @@ Experiments are performed for different image restoration tasks including, image
 <thead>
   <tr>
     <th>Dataset</th>
+    <th>UIEB</th>
+    <th>LSUI</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Baidu NetDisk</td>
+    <td> <a href="https://pan.baidu.com/s/1IyQF-Aa9nvsrcr-ZdRwR9w?pwd=7hxd">Download (7hxd)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1evcyc_FOq6LyVCGp7LyWTQ?pwd=jd7m">Download (jd7m)</a>  </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th>Dataset</th>
     <th>GoPro</th>
   </tr>
 </thead>
