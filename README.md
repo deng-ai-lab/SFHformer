@@ -96,7 +96,7 @@ Experiments are performed for different image restoration tasks including, image
 <table>
 <thead>
   <tr>
-    <th>Dataset</th>
+    <th>Dehazing Dataset</th>
     <th>SOTS-indoor</th>
     <th>SOTS-outdoor</th>
     <th>O-HAZE</th>
@@ -119,7 +119,7 @@ Experiments are performed for different image restoration tasks including, image
 <table>
 <thead>
   <tr>
-    <th>Dataset</th>
+    <th>Low-light Dataset</th>
     <th>LOLv2-real</th>
     <th>LOLV2-syn</th>
   </tr>
@@ -136,7 +136,7 @@ Experiments are performed for different image restoration tasks including, image
 <table>
 <thead>
   <tr>
-    <th>Dataset</th>
+    <th>Underwater Dataset</th>
     <th>UIEB</th>
     <th>LSUI</th>
   </tr>
@@ -153,7 +153,7 @@ Experiments are performed for different image restoration tasks including, image
 <table>
 <thead>
   <tr>
-    <th>Dataset</th>
+    <th>Motion Deblurring Dataset</th>
     <th>GoPro</th>
   </tr>
 </thead>
@@ -168,7 +168,7 @@ Experiments are performed for different image restoration tasks including, image
 <table>
 <thead>
   <tr>
-    <th>Dataset</th>
+    <th>Desnowing Dataset</th>
     <th>SRRS</th>
   </tr>
 </thead>
@@ -183,7 +183,7 @@ Experiments are performed for different image restoration tasks including, image
 <table>
 <thead>
   <tr>
-    <th>Dataset</th>
+    <th>Raindrop Dataset</th>
     <th>RainDrop</th>
   </tr>
 </thead>
@@ -198,7 +198,7 @@ Experiments are performed for different image restoration tasks including, image
 <table>
 <thead>
   <tr>
-    <th>Dataset</th>
+    <th>Deraining Dataset</th>
     <th>SPA-Data</th>
   </tr>
 </thead>
