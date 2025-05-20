@@ -8,6 +8,7 @@ School of Astronautics, Beihang University, Beijing, China
  
 #### News
 Thanks for your interest in our work, we will continue to optimize our code. If you have any other questions, please feel free to raise them in the issues, and I will try my best to address them!
+- **May 20, 2025:** Our extension work SWFormer:**"Image Restoration via Multi-domain Learning"** of SFHformer is available at [https://arxiv.org/pdf/2505.05504](https://arxiv.org/pdf/2505.05504). Github Code: [https://github.com/deng-ai-lab/SWFormer](https://github.com/deng-ai-lab/SWFormer).
 - **Apr 11, 2025:** We release some visualizations of the dataset in the Visual result section. 
 - **Mar 27, 2025:** We release the pre-training weights of ITS and OTS with the test code in the dehazing folder.
 - **Oct 17, 2024:** The train code is now open and our paper is available [here](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06190.pdf)! 
