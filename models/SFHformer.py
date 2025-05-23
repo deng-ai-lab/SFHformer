@@ -141,8 +141,8 @@ class TokenMixer_For_Local(nn.Module):
 
 
 class FourierUnit(nn.Module):
-
-    def __init__(self, in_channels, out_channels, groups=4):
+    # simple tasks, e.g. dehazing\deraining can set groups=1 for better latency; complex tasks, e.g. motion blur can set groups=4 for better performance. 
+    def __init__(self, in_channels, out_channels, groups=1):
         # bn_layer not used
         super(FourierUnit, self).__init__()
         self.groups = groups
