@@ -114,7 +114,9 @@ Experiments are performed for different image restoration tasks including, image
 
 ## Pretrained model
 **Dehazing Datasets:** <a href="https://pan.baidu.com/s/1lfoOJLyCREXFkLHPJZJ9kQ?pwd=1v1a">ITS</a> <a href="https://pan.baidu.com/s/1BCFiHWsdkxGKpFbk68IHIQ?pwd=iz2n">OTS</a>
+
 **Low-light Enhancement Datasets:** <a href="https://pan.baidu.com/s/1_KU_VCdCBfnyG3_CsUSuBg?pwd=7w7a">LOLv2-r</a> <a href="https://pan.baidu.com/s/1685LqNiu_c09-b8p3g4BYg?pwd=mr89">LOLv2-s</a> 
+
 **Motion Deblur Datasets:** <a href="https://pan.baidu.com/s/1iyefA_-GZwCy1xJnNtENBw?pwd=w3gj">GoPro</a>
 
 ## Visual Results
