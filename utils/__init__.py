@@ -19,7 +19,7 @@ def MAE(img1, img2):
     return np.mean([mae_0,mae_1,mae_2])
 
 def PSNR(img1, img2):
-    mse_ = np.mean((img1 - img2) ** 2 )
+    mse_ = np.mean( (img1 - img2) ** 2 )
     if mse_ == 0:
         return 100
     return 10 * math.log10(1 / mse_)

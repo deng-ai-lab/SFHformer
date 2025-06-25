@@ -1,1 +1,1 @@
-from models.SFHformer import SFHformer_s, SFHformer_l, SFHformer_m, SFHformer_t
+from models.sfhformer_motion_blur import sfhformer_motion_blur

@@ -123,6 +123,7 @@ def calculate_psnr_torch(img1, img2):
   mse_loss = F.mse_loss(img1, img2, reduction='none').mean((1, 2, 3))
   psnr_full = 10 * torch.log10(1 / mse_loss).mean()
   sim = ssim(img1.permute(0, 3, 1, 2), img2.permute(0, 3, 1, 2), data_range=1, size_average=False).mean()
+  # print(mse)
   return psnr_full, sim
 
 import math
